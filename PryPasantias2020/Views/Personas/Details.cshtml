@@ -1,0 +1,82 @@
+﻿@model BEUPasantias.Persona
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Persona</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.nombres)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.nombres)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.apellidos)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.apellidos)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.cedula)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.cedula)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.telefono)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.telefono)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.codigo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.codigo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.password)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.password)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.rol)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.rol)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

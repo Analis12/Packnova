@@ -1,0 +1,12 @@
+D:\Ana\BEUPasantias\bin\Debug\BEUPasantias.dll.config
+D:\Ana\BEUPasantias\bin\Debug\BEUPasantias.dll
+D:\Ana\BEUPasantias\bin\Debug\BEUPasantias.pdb
+D:\Ana\BEUPasantias\bin\Debug\EntityFramework.dll
+D:\Ana\BEUPasantias\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ana\BEUPasantias\bin\Debug\EntityFramework.xml
+D:\Ana\BEUPasantias\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ana\BEUPasantias\obj\Debug\BEUPasantias.csproj.CoreCompileInputs.cache
+D:\Ana\BEUPasantias\obj\Debug\BEUPasantias.csproj.CopyComplete
+D:\Ana\BEUPasantias\obj\Debug\BEUPasantias.dll
+D:\Ana\BEUPasantias\obj\Debug\BEUPasantias.pdb
+D:\Ana\BEUPasantias\obj\Debug\BEUPasantias.csprojAssemblyReference.cache
